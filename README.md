@@ -1,7 +1,6 @@
 # ☕ BrewMaster - Intelligent Coffee Shop Management System
 
-![Project Banner](https://via.placeholder.com/1200x400/4B3621/ffffff?text=BrewMaster+Admin+Panel) 
-*(Note: You can replace this link with your actual project screenshot)*
+![Project Banner](./public/screenshot-dashboard.png)
 
 ## 🚀 Project Overview
 
@@ -69,7 +68,7 @@ Follow these steps to run the project locally:
 Clone the repository:
 
 Bash
-git clone [https://github.com/your-username/brewmaster-admin.git](https://github.com/your-username/brewmaster-admin.git)
+git clone https://github.com/your-username/brewmaster-admin.git
 Navigate to the project directory:
 
 Bash
@@ -96,4 +95,4 @@ Typography: Poppins (Google Fonts)
 📄 License
 This project is open-source and available under the MIT License.
 
-Developed with  by Muhammet Enes DEMIRKOL
+Developed by Muhammet Enes DEMIRKOL
