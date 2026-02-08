@@ -1,6 +1,7 @@
 # ☕ BrewMaster - Intelligent Coffee Shop Management System
 
-![Project Banner](./public/screenshot-dashboard.png)
+
+### 🚀 [Click for Live Demo](https://brewmasteradmin.netlify.app/)
 
 ## 🚀 Project Overview
 
@@ -38,8 +39,7 @@ The application bridges the gap between design and functionality, implementing a
 
 ## 📸 Screenshots
 
-| Dashboard View | Add Product Modal |
-| :---: | :---: |
+
 | ![Dashboard](./public/screenshot-dashboard.png) |
 
 
@@ -68,7 +68,7 @@ Follow these steps to run the project locally:
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/brewmaster-admin.git
+git clone [https://github.com/your-username/brewmaster-admin.git](https://github.com/your-username/brewmaster-admin.git)
 Navigate to the project directory:
 
 Bash
@@ -95,4 +95,4 @@ Typography: Poppins (Google Fonts)
 📄 License
 This project is open-source and available under the MIT License.
 
-Developed by Muhammet Enes DEMIRKOL
+Developed with  by Muhammet Enes DEMIRKOL
